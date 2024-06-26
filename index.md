@@ -1,7 +1,17 @@
 ## Portfolio
 
 ---
+### Accessibility in Tertiary Institutions
 
+This project examines survey data taken from the 2022 SHUFFLE Project in Germany. The focus was on the pain points and challenges experienced by students with disabilities and teaching staff in providing inclusive digital learning materials. With many students experiencing more an one disabiling condition, the complexity of the quantitative and qualitative data required analysis beyond that automatically provided by the survey too.
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
+![RStudio Badge](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=fff&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+
+---
 ### Interpretable classification of disease state using Shapley values 
 
 Automatic classification using machine learning is very useful in many fields. However understanding why the results look like they do can often be problemtic for stakeholders. This project examines the interpretability of results in the automatic classication (and detection) of Dementia using speech data.
@@ -18,10 +28,7 @@ Automatic classification using machine learning is very useful in many fields. H
 [View code on Github](https://github.com/kheitm/XAI_Acoustic_Features)
 
 ---
-[Project 2 Under Construction](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 [Project 3 Under Construction](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
