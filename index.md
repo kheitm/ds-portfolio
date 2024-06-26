@@ -10,6 +10,10 @@ Automatic classification using machine learning is very useful in many fields. H
 
 <img src="images/example_features.png?raw=true"/>
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) 
+[![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
+
 ---
 [Project 2 Under Construction](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
