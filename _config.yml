@@ -4,10 +4,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   Computational linguist and data professional
   <br>
-  <a href="https://www.linkedin.com/in/kathy-ann-heitmeier/">View My LinkedIn Profile</a> 
+  #<a href="https://www.linkedin.com/in/kathy-ann-heitmeier/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-#plugins:
-#- jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
