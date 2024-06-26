@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Interpretable classification of disease state using Shapley values 
 
-[Project 1 Under Construction](/sample_page)
+Automatic classification using machine learning is very useful in many fields. However understanding why the results look like they do can often be problemtic for stakeholders. This project exams interpretability of results in the automatic classication (and detection) of dementia using speech data.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
