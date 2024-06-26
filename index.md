@@ -3,7 +3,7 @@
 ---
 ### Accessibility in Tertiary Institutions
 
-This project examines survey data taken from the 2022 SHUFFLE Project in Germany. The focus was on the pain points and challenges experienced by students with disabilities and teaching staff in providing inclusive digital learning materials. With many students experiencing more an one disabiling condition, the complexity of the quantitative and qualitative data required analysis beyond that automatically provided by the survey too.
+This project examines survey data taken from the 2022 SHUFFLE Project in Germany. The focus was on the pain points and challenges experienced by students with disabilities and teaching staff in providing inclusive digital learning materials. With many students experiencing more an one disabiling condition, the complexity of the quantitative and qualitative data required analysis beyond that automatically provided by the survey tool.
 
 <img src="images/example_survey_grid.png?raw=true"/>
 
