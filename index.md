@@ -4,7 +4,7 @@
 
 ### Interpretable classification of disease state using Shapley values 
 
-Automatic classification using machine learning is very useful in many fields. However understanding why the results look like they do can often be problemtic for stakeholders. This project exams interpretability of results in the automatic classication (and detection) of dementia using speech data.
+Automatic classification using machine learning is very useful in many fields. However understanding why the results look like they do can often be problemtic for stakeholders. This project examines the interpretability of results in the automatic classication (and detection) of Dementia using speech data.
 
 <img src="images/example_dependency.png?raw=true"/>
 
