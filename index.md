@@ -13,6 +13,8 @@ Automatic classification using machine learning is very useful in many fields. H
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) 
 [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 [View code on Github](https://github.com/kheitm/XAI_Acoustic_Features)
