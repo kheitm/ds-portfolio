@@ -21,7 +21,7 @@ Automatic classification using machine learning is very useful in many fields. H
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project Under Construction](http://example.com/)
+[Project 3 Under Construction](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
