@@ -6,7 +6,9 @@
 
 Automatic classification using machine learning is very useful in many fields. However understanding why the results look like they do can often be problemtic for stakeholders. This project exams interpretability of results in the automatic classication (and detection) of dementia using speech data.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/example_dependency.png?raw=true"/>
+
+<img src="images/example_features.png?raw=true"/>
 
 ---
 [Project 2 Under Construction](/pdf/sample_presentation.pdf)
