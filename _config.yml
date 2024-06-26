@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Kathy-Ann Heitmeier # your name (or website title) here
+logo: "/images/heitmeier_round.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <br>
+  Computational linguist and data professional with experience in the health and edication domains 
   <br><br>
-  Second description 
+  Digital Accessibility enthusiast
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/kathy-ann-heitmeier/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
