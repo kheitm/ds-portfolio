@@ -12,8 +12,6 @@ This project aims to analyse user activity and engagement in their user journey 
 
 Automatic classification using machine learning is very useful in many fields. However understanding why the results look like they do can often be problemtic for stakeholders. This project examines the interpretability of results in the automatic classication (and detection) of Dementia using speech data.
 
-<img src="images/example_dependency.png?raw=true"/>
-
 <img src="images/example_features.png?raw=true"/>
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
