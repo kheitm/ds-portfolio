@@ -6,6 +6,7 @@
 This project aims to analyse user activity and engagement in their user journey up to the point that they purchase a (new) subscription in Q1 2023 in an online learning platform. The focus is on the website pages that that they visit before their purchase and the path and length of their user journeys. This information has implications for UX/UI design, as well as for relevant KPIs and marketing strategies.
 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
 ---
 ### Interpretable classification of disease state using Shapley values 
 
