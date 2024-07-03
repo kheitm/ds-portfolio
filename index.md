@@ -3,7 +3,7 @@
 ---
 ### User Journeys in a SaaS Subcription Service
 
-This project aims to analse user activity and engagement in their user journey up to the point that they purchase a (new) subscription in Q1 2023 in an online learning platform. The focus is on the website pages that that they visit before their purchase and the path and length of their user journeys. This information has implications for UX/UI design, as well as for relevant KPIs and marketing strategies.
+This project aims to analyse user activity and engagement in their user journey up to the point that they purchase a (new) subscription in Q1 2023 in an online learning platform. The focus is on the website pages that that they visit before their purchase and the path and length of their user journeys. This information has implications for UX/UI design, as well as for relevant KPIs and marketing strategies.
 
 
 ---
@@ -35,13 +35,8 @@ This project examines survey data taken from the 2022 SHUFFLE Project in Germany
 
 ---
 
-### Category Name 2
+### 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
