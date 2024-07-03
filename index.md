@@ -1,10 +1,9 @@
 ## Portfolio
 
 ---
-### User Journeys in SaaS Subcription
+### User Journeys in a SaaS Subcription Service
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+This project aims to analse user activity and engagement in their user journey up to the point that they purchase a (new) subscription in Q1 2023 in an online learning platform. The focus is on the website pages that that they visit before their purchase and the path and length of their user journeys. This information has implications for UX/UI design, as well as for relevant KPIs and marketing strategies.
 
 
 ---
