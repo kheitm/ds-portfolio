@@ -41,14 +41,3 @@ This project examines survey data taken from the 2022 SHUFFLE Project in Germany
 
 ---
 
-### 
-
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
