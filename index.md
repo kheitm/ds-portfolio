@@ -9,6 +9,9 @@ This project aims to analyse user activity and engagement in their user journey 
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat)
+
+[View code on Github](https://github.com/kheitm/user_journeys)
+
 ---
 ### Interpretable classification of disease state using Shapley values 
 
