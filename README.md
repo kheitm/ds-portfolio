@@ -1,4 +1,4 @@
-## Kathy-Ann Heitmeier's data science and machine learning projects
+## Examples of Kathy-Ann Heitmeier's technical projects
 
 
 
