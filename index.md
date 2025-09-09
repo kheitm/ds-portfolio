@@ -40,17 +40,12 @@ Automatic classification using machine learning is very useful in many fields. H
 [View code on Github](https://github.com/kheitm/XAI_Acoustic_Features)
 
 ---
-### Accessibility in Tertiary Institutions
+### BlindDate Website
 
-This project examines survey data taken from the 2022 SHUFFLE Project in Germany. The focus was on the pain points and challenges experienced by students with disabilities and teaching staff in providing inclusive digital learning materials. With many students experiencing more an one disabiling condition, the complexity of the quantitative and qualitative data required analysis beyond that automatically provided by the survey tool.
+Bei diesem Projekt handelt es sich um eine innovative Ressourcen-Website, auf der Lehrkräfte virtuell mit Studierenden mit Behinderungen, ihren Herausforderungen sowie deren Werkzeugen und Lösungen in Kontakt treten können. Durch die Studierendenpersönlichkeiten wird das Bewusstsein für die Rolle von Lehrkräften beim Abbau von Barrieren durch konkrete Empfehlungen und Links zu Ressourcen geschärft.
 
 <img src="images/frage_7_donut_chart.png?raw=true" width="40%"/>
 
-![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
-![RStudio Badge](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=fff&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-
-[View code on Github](https://github.com/kheitm/Accessibility-Survey)
 
 ---
 
