@@ -7,7 +7,7 @@ Bei diesem Projekt handelt es sich um eine innovative Ressourcen-Website, auf de
 
 <img src="images/BlindDateHomePage.png?raw=true" width="40%"/>
 
-[Using Design Thinking Methods in Developing a Digital Accessibility Resource Website] (https://www.icchp-aaate.org/content/using-design-thinking-methods-developing-digital-accessibility-learning-resource)
+[Using Design Thinking Methods in Developing a Digital Accessibility Resource Website](https://www.icchp-aaate.org/content/using-design-thinking-methods-developing-digital-accessibility-learning-resource)
 Kathy-Ann Heitmeier; Ann-Katrin Böhm; Verena Kersken; Patricia Piskorek; Niklas Egger; Markus Lang; Gottfried Zimmermann
 Joint International Conference on Digital Inclusion, Assistive Technology & Accessibility (ICCHP/AAATE) 2022
 
