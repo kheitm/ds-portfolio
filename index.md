@@ -13,6 +13,19 @@ This project aims to analyse user activity and engagement in their user journey 
 [View code on Github](https://github.com/kheitm/user_journeys)
 
 ---
+### Accessibility in Tertiary Institutions
+
+This project examines survey data taken from the 2022 SHUFFLE Project in Germany. The focus was on the pain points and challenges experienced by students with disabilities and teaching staff in providing inclusive digital learning materials. With many students experiencing more an one disabiling condition, the complexity of the quantitative and qualitative data required analysis beyond that automatically provided by the survey tool.
+
+<img src="images/frage_7_donut_chart.png?raw=true" width="40%"/>
+
+![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
+![RStudio Badge](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=fff&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+
+[View code on Github](https://github.com/kheitm/Accessibility-Survey)
+
+---
 ### Interpretable classification of disease state using Shapley values 
 
 Automatic classification using machine learning is very useful in many fields. However understanding why the results look like they do can often be problemtic for stakeholders. This project examines the interpretability of results in the automatic classication (and detection) of Dementia using speech data.
