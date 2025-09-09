@@ -7,9 +7,19 @@ Bei diesem Projekt handelt es sich um eine innovative Ressourcen-Website, auf de
 
 <img src="images/BlindDateHomePage.png?raw=true" width="40%"/>
 
+[Re-Conceptualizing Disability Simulations: a guided strategies-based approach](https://aaate2023.eu/wp-content/uploads/sites/26/2023/08/BookOfAbstracts-Prelim.pdf#page=277)
+Patricia Piskorek; Kathy-Ann Heitmeier; Verena Kersken; Gottfried Zimmermann
+Association for the Advancement of Assistive Technology in Europe (AAATE) 2023
+
+[Persona Co-design for Improving Digital Accessibility](https://dl.acm.org/doi/10.1145/3544549.3585857?cid=99660778490)
+Kathy-Ann Heitmeier; Verena Kersken; Patricia Piskorek; Niklas Egger; Ann-Katrin Böhm; Markus Lang; Gottfried Zimmermann
+ACM CHI Conference on Human Factors in Computing Systems 2023
+
 [Using Design Thinking Methods in Developing a Digital Accessibility Resource Website](https://www.icchp-aaate.org/content/using-design-thinking-methods-developing-digital-accessibility-learning-resource)
 Kathy-Ann Heitmeier; Ann-Katrin Böhm; Verena Kersken; Patricia Piskorek; Niklas Egger; Markus Lang; Gottfried Zimmermann
 Joint International Conference on Digital Inclusion, Assistive Technology & Accessibility (ICCHP/AAATE) 2022
+
+
 
 ![Figma Badge](https://img.shields.io/badge/Figma-8A2BE2)
 ![Figma Badge](https://img.shields.io/badge/Miro-yellow)
