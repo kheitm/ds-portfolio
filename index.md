@@ -7,6 +7,8 @@ Bei diesem Projekt handelt es sich um eine innovative Ressourcen-Website, auf de
 
 <img src="images/BlindDateHomePage.png?raw=true" width="40%"/>
 
+![Figma Miro Badge](https://img.shields.io/badge/Figma-Miro-blue)
+
 ---
 ### Accessibility in Tertiary Institutions
 
