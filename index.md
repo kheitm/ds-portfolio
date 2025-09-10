@@ -1,9 +1,9 @@
 ## Portfolio
 
 ---
-### [BlindDate Website](https://barrierefreies-blinddate.de)
+### BlindDate Website
 
-Bei diesem Projekt handelt es sich um eine innovative Ressourcen-Website, auf der Lehrkräfte virtuell mit Studierenden mit Behinderungen, ihren Herausforderungen sowie deren Werkzeugen und Lösungen in Kontakt treten können. Durch die Studierendenpersönlichkeiten wird das Bewusstsein für die Rolle von Lehrkräften beim Abbau von Barrieren durch konkrete Empfehlungen und Links zu Ressourcen geschärft.
+Bei diesem Projekt handelt es sich um eine innovative Ressourcen-Website[BlindDate](https://barrierefreies-blinddate.de), auf der Lehrkräfte virtuell mit Studierenden mit Behinderungen, ihren Herausforderungen sowie deren Werkzeugen und Lösungen in Kontakt treten können. Durch die Studierendenpersönlichkeiten wird das Bewusstsein für die Rolle von Lehrkräften beim Abbau von Barrieren durch konkrete Empfehlungen und Links zu Ressourcen geschärft.
 
 <img src="images/BlindDateHomePage.png?raw=true" width="40%"/>
 
