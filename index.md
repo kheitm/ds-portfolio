@@ -34,7 +34,9 @@ Das [Knowledge Badge „Barrierefreie Lehre“](https://iaap-dach.org/knowledge-
 
 
 
-
+![Moodle](https://img.shields.io/badge/Moodle-green)
+![MS Office](https://img.shields.io/badge/MS_Office-blue)
+![Panopto](https://img.shields.io/badge/Panopto-red)
 
 
 
