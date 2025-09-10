@@ -32,7 +32,7 @@ Dieser 23+ Stunden Moodle-Kurs schließt die Informationslücke zur Umsetzung di
 
 Das [Knowledge Badge „Barrierefreie Lehre“](https://iaap-dach.org/knowledge-badges/barrierefrei-lehren.html) wurde vom SHUFFLE-Projekt konzipiert und wird von der [IAAP-DACH](https://iaap-dach.org/nachrichten.html), dem deutschsprachigen Zweig des internationalen Berufsverbandes [IAAP](https://www.accessibilityassociation.org), vergeben.
 
-
+Poster. "Introducing a Certificate Course in Accessible Teaching for Tertiary Education in Germany" Kathy-Ann Heitmeier and Gottfried Zimmermann. ICCHP 2024
 
 ![Moodle](https://img.shields.io/badge/Moodle-green)
 ![MS Office](https://img.shields.io/badge/MS_Office-blue)
