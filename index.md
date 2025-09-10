@@ -68,7 +68,7 @@ This perrsonal project aims to analyse user activity and engagement in their use
 [View code on Github](https://github.com/kheitm/user_journeys)
 
 ---
-### Acoustic Features in the Automatic Classification ofAlzheimer's Dementia
+### Acoustic Features in the Automatic Classification of Alzheimer's Dementia
 
 Automatic classification using machine learning is very useful in many fields. However understanding why the results look like they do can often be problemtic for stakeholders. This Master's Thesis examines the interpretability of results in the automatic classication (and detection) of Dementia using speech data.
 
