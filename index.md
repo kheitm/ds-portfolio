@@ -26,6 +26,20 @@ Joint International Conference on Digital Inclusion, Assistive Technology & Acce
 
 
 ---
+### Knowledge Badge "Barrierefrei lehren"
+
+Dieser Moodle-Kurs schließt die Informationslücke zur Umsetzung digitaler Barrierefreiheit in der Hochschulbildung. Er analysiert die demografischen Voraussetzungen und rechtlichen Grundlagen einer inklusiven Bildungslandschaft. Darüber hinaus berücksichtigt er die aktuellen Erfahrungen von Studierenden mit Behinderungen in Hochschullehrveranstaltungen. Ein wichtiger Schwerpunkt liegt auf der Vermittlung praxisorientierter Strategien und Best Practices für die barrierefreie Gestaltung digitaler Lehrmaterialien und Lernplattformen.
+
+Das [Knowledge Badge „Barrierefreie Lehre“](https://iaap-dach.org/knowledge-badges/barrierefrei-lehren.html) wurde vom SHUFFLE-Projekt konzipiert und wird von der [IAAP-DACH](https://iaap-dach.org/nachrichten.html), dem deutschsprachigen Zweig des internationalen Berufsverbandes [IAAP](https://www.accessibilityassociation.org), vergeben.
+
+
+
+
+
+
+
+
+---
 ### Accessibility in Tertiary Institutions
 
 This project examines survey data taken from the 2022-2025 [SHUFFLE Project](https://shuffle-projekt.de) at the Hochschule der Medien, Germany. The focus was on the pain points and challenges experienced by students with disabilities and teaching staff in providing inclusive digital learning materials. With many students experiencing more an one disabiling condition, the complexity of the quantitative and qualitative data required analysis beyond that automatically provided by the survey tool.
