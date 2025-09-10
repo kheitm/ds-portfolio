@@ -28,7 +28,7 @@ Joint International Conference on Digital Inclusion, Assistive Technology & Acce
 ---
 ### Knowledge Badge "Barrierefrei lehren"
 
-Dieser Moodle-Kurs schließt die Informationslücke zur Umsetzung digitaler Barrierefreiheit in der Hochschulbildung. Er analysiert die demografischen Voraussetzungen und rechtlichen Grundlagen einer inklusiven Bildungslandschaft. Darüber hinaus berücksichtigt er die aktuellen Erfahrungen von Studierenden mit Behinderungen in Hochschullehrveranstaltungen. Ein wichtiger Schwerpunkt liegt auf der Vermittlung praxisorientierter Strategien und Best Practices für die barrierefreie Gestaltung digitaler Lehrmaterialien und Lernplattformen.
+Dieser 23+ Stunden Moodle-Kurs schließt die Informationslücke zur Umsetzung digitaler Barrierefreiheit in der Hochschulbildung. Er analysiert die demografischen Voraussetzungen und rechtlichen Grundlagen einer inklusiven Bildungslandschaft. Darüber hinaus berücksichtigt er die aktuellen Erfahrungen von Studierenden mit Behinderungen in Hochschullehrveranstaltungen. Ein wichtiger Schwerpunkt liegt auf der Vermittlung praxisorientierter Strategien und Best Practices für die barrierefreie Gestaltung digitaler Lehrmaterialien und Lernplattformen.
 
 Das [Knowledge Badge „Barrierefreie Lehre“](https://iaap-dach.org/knowledge-badges/barrierefrei-lehren.html) wurde vom SHUFFLE-Projekt konzipiert und wird von der [IAAP-DACH](https://iaap-dach.org/nachrichten.html), dem deutschsprachigen Zweig des internationalen Berufsverbandes [IAAP](https://www.accessibilityassociation.org), vergeben.
 
