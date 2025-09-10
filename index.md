@@ -1,4 +1,4 @@
-## Portfolio
+## Selected Projects
 
 ---
 ### BlindDate Website
